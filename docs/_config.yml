@@ -30,7 +30,7 @@ twitter_username: Null
 github_username:  Null
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
